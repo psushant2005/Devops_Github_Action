@@ -3,7 +3,7 @@
 def add(a, b):
     return a + b
 # commit for testing
-def sub(x, z);
+def sub(x, z):
     return z - x
 
 def test_add():
